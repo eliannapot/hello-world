@@ -8,7 +8,7 @@
 callCounter();
 colorEveryOddTask();
 
-console.log("this is a change");
+console.log("this is another change");
 
 
 function callCounter() {

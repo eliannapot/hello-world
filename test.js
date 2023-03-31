@@ -8,6 +8,8 @@
 callCounter();
 colorEveryOddTask();
 
+console.log("this is a change");
+
 
 function callCounter() {
     let total = getTotalCount();
